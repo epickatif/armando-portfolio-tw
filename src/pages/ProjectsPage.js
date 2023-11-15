@@ -1,4 +1,3 @@
-// In src/pages/ProjectsPage.js
 import React from 'react';
 
 function ProjectsPage() {
